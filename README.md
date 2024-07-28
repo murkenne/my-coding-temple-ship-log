@@ -1,1 +1,3 @@
-This is a new commit
+# my-coding-temple-ship-log
+
+Author: Coding Temple
